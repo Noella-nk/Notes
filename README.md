@@ -10,4 +10,4 @@
 - \* : Astérisque
 - ( : Parenthèse gauche
 - ) : Parenthèse droit
-[w3 schools](https://www.w3schools.com/)
+* [w3 schools](https://www.w3schools.com/)
