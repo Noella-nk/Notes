@@ -1,5 +1,5 @@
 # Number row characters
-## ! " / $ % ? & * ( )
+## ! @ / $ % ? & * ( )
 - ! : Exclamation
 - @ : Arobase
 - / : Slash
