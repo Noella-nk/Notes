@@ -6,7 +6,7 @@
 - $ : Dollar
 - % : Pourcentage
 - ? : Point d'interrogation
-- & : Signe et
+- & : Esperluette
 - \* : Astérisque
 - ( : Parenthèse gauche
 - ) : Parenthèse droit
