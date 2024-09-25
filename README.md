@@ -15,3 +15,8 @@
 ## Experiments
 :heart_eyes: :sparkling_heart: :satisfied:
 :grin: :blush:
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-X (cut)
